@@ -3,4 +3,4 @@ Repositório criado para o Desafio DIO de projeto sobre Git/Github
 
 ##Links úteis: 
 
-[Sintaxe Basica Markdown]()
+[Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
